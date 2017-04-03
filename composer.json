@@ -14,10 +14,7 @@
     "autoload": {
         "psr-4": {
             "HWP\\Blade\\": "src/"
-        },
-        "files": [
-            "helpers.php"
-        ]
+        }
     },
     "require": {
         "composer/installers": "~1.0",
