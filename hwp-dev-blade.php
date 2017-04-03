@@ -11,4 +11,6 @@
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  */
 
-require_once __DIR__ . '/vendor/autoload.php';
+if (file_exists(__DIR__ . '/vendor/autoload.php')) {
+    require(__DIR__ . '/vendor/autoload.php');
+}
