@@ -1,7 +1,7 @@
 {
     "name": "hwp/hwp-dev-blade",
     "description": "Common classes and functions for WP Development.",
-    "type": "wordpress-plugin",
+    "type": "wordpress-muplugin",
     "license": "GPL-2.0",
     "homepage": "http://hirvi.no/",
     "authors": [
